@@ -1,0 +1,20 @@
+[
+    { "country": "Rusia", "capital": "Moscu" },
+    { "country": "Alemania", "capital": "Berlín" },
+    { "country": "Reino Unido", "capital": "Londres" },
+    { "country": "Francia", "capital": "Paris" },
+    { "country": "Italia", "capital": "Roma" },
+    { "country": "España", "capital": "Madrid" },
+    { "country": "Ucrania", "capital": "Kiev" },
+    { "country": "Polonia", "capital": "Varsovia" },
+    { "country": "Rumania", "capital": "Bucarest" },
+    { "country": "Países Bajos", "capital": "Ámsterdam" },
+    { "country": " Bélgica", "capital": "Bruselas" },
+    { "country": "República Checa", "capital": "Praga" },
+    { "country": "Suecia", "capital": "Estocolmo" },
+    { "country": "Grecia", "capital": "Atenas" },
+    { "country": "Portugal", "capital": "Lisboa" },
+    { "country": "Croacia", "capital": "Zagreb" },
+    { "country": "Dinamarca", "capital": "BCopenhague" }
+]
+  
